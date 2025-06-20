@@ -58,8 +58,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/micro/micro/v5/cmd/protoc-gen-micro/generator"
-	_ "github.com/micro/micro/v5/cmd/protoc-gen-micro/plugin/micro"
+	"github.com/vadbes46/micro/cmd/protoc-gen-micro/generator"
+	_ "github.com/vadbes46/micro/cmd/protoc-gen-micro/plugin/micro"
 	"google.golang.org/protobuf/proto"
 )
 
